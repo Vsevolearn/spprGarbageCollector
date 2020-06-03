@@ -1,0 +1,12 @@
+C:\SPPR\grig\GarbageCollector\GarbageCollector\bin\Debug\netcoreapp3.1\GarbageCollector.deps.json
+C:\SPPR\grig\GarbageCollector\GarbageCollector\bin\Debug\netcoreapp3.1\GarbageCollector.dll
+C:\SPPR\grig\GarbageCollector\GarbageCollector\bin\Debug\netcoreapp3.1\OSMLSGlobalLibrary.dll
+C:\SPPR\grig\GarbageCollector\GarbageCollector\bin\Debug\netcoreapp3.1\OSMLSGlobalLibrary.pdb
+C:\SPPR\grig\GarbageCollector\GarbageCollector\obj\Debug\netcoreapp3.1\GarbageCollector.AssemblyInfoInputs.cache
+C:\SPPR\grig\GarbageCollector\GarbageCollector\obj\Debug\netcoreapp3.1\GarbageCollector.AssemblyInfo.cs
+C:\SPPR\grig\GarbageCollector\GarbageCollector\obj\Debug\netcoreapp3.1\GarbageCollector.csproj.CopyComplete
+C:\SPPR\grig\GarbageCollector\GarbageCollector\bin\Debug\netcoreapp3.1\GarbageCollector.pdb
+C:\SPPR\grig\GarbageCollector\GarbageCollector\obj\Debug\netcoreapp3.1\GarbageCollector.csproj.CoreCompileInputs.cache
+C:\SPPR\grig\GarbageCollector\GarbageCollector\obj\Debug\netcoreapp3.1\GarbageCollector.dll
+C:\SPPR\grig\GarbageCollector\GarbageCollector\obj\Debug\netcoreapp3.1\GarbageCollector.pdb
+C:\SPPR\grig\GarbageCollector\GarbageCollector\obj\Debug\netcoreapp3.1\GarbageCollector.csprojAssemblyReference.cache

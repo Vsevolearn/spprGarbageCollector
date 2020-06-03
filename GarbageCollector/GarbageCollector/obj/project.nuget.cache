@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "YWKzvTtZZztMtDeVSuw4xPm8s6lZZt7SdtkwG4AcExd5NiHEPFcduffkH0hk4MmZhcFwB630PqukEmtDvDLWqA==",
+  "success": true,
+  "projectFilePath": "C:\\SPPR\\grig\\GarbageCollector\\GarbageCollector\\GarbageCollector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vsevo\\.nuget\\packages\\nettopologysuite\\2.0.0\\nettopologysuite.2.0.0.nupkg.sha512",
+    "C:\\Users\\vsevo\\.nuget\\packages\\nettopologysuite.features\\2.0.0\\nettopologysuite.features.2.0.0.nupkg.sha512",
+    "C:\\Users\\vsevo\\.nuget\\packages\\nettopologysuite.io.geojson\\2.0.1\\nettopologysuite.io.geojson.2.0.1.nupkg.sha512",
+    "C:\\Users\\vsevo\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\vsevo\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
